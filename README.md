@@ -1,6 +1,6 @@
 Español
 
-Cw-Trainer
+# Cw-Trainer
 
 Hola!! He vuelto, pero hoy con un cacharro para aprender morse con tu llave. Me dio por aprender morse y, mirando distintas opciones para aprender, no me convencía ninguna, así que me monté una yo mismo.
 
