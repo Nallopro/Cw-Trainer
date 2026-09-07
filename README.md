@@ -1,6 +1,6 @@
-Español
+# Español
 
-# Cw-Trainer
+Cw-Trainer
 
 Hola!! He vuelto, pero hoy con un cacharro para aprender morse con tu llave. Me dio por aprender morse y, mirando distintas opciones para aprender, no me convencía ninguna, así que me monté una yo mismo.
 
@@ -26,8 +26,9 @@ Si tu llave no funciona correctamente, comprueba que está enchufada correctamen
 
 Es probable que mejore el software más adelante :)
 
-English:
-# Cw-Trainer
+# English:
+
+Cw-Trainer
 Hey there :3!! Nallo here, back at it again, but this time I wanted to learn Morse code with my paddle key. After looking at some options, I thought to myself that they were too expensive, so I made my own.
 
 Power the trainer up via the Usb-c port on the Esp32 and get to sending! You can use your phone to power it or anything else that provides 5 volts.
