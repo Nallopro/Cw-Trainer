@@ -24,7 +24,7 @@ Tienes más información en Instrucciones de uso y montaje.
 
 Si tu llave no funciona correctamente, comprueba que está enchufada correctamente.
 
-Es probable que mejore el software más adelante :)
+Es probable que mejore el firmware más adelante :)
 
 # English:
 
@@ -51,4 +51,4 @@ You just need one 3.5mm male jack (https://s.click.aliexpress.com/e/_c3c8kbPP) a
 Find more info in the Assembly or Manual tab.
 
 If your key is not behaving correctly, make sure it's pushed all the way in.
-I might update the software in the future, make sure to stay tuned!
+I might update the firmware in the future, make sure to stay tuned!
