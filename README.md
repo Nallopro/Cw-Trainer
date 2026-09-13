@@ -20,7 +20,7 @@ Puedes usar cualquier llave que puentee la manga con la punta y/o el anillo del 
 
 También he hecho una mini llave de morse para usar con tu transceptor o con el trainer. Para montarla necesitas un jack macho de 3.5mm (https://s.click.aliexpress.com/e/_c3c8kbPP) y unos tornillos.
 
-Tienes más información en 3D files.
+Tienes más información en 3D files y en User guide.
 
 Si tu llave no funciona correctamente, comprueba que está enchufada correctamente.
 
@@ -48,7 +48,7 @@ You can use any keys that short the sleeve with the tip and/or the ring.
 I also made a 3D printed mini key to use with your radio or your trainer!
 You just need one 3.5mm male jack (https://s.click.aliexpress.com/e/_c3c8kbPP) and a few screws.
 
-Find more info in the 3D files tab.
+Find more info in the 3D files and User guide tab.
 
 If your key is not behaving correctly, make sure it's pushed all the way in.
 I might update the firmware in the future, make sure to stay tuned!
